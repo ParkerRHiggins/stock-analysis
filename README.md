@@ -9,14 +9,14 @@ The purpose of this project was to analyze multiple green stocks efficiently uti
 ## Results
 While refactoring the code it was important to decide which parts of the original code we can still use and copy over and areas that we can improve the code.  I was able improve the code by creating three new output arrays (tickerVolume, tickerStartingPrices and tickerEndingPrices) and a new tickIndex variable that we used to access the correct index across the arrays before looping through the data set.  This strategy allowed our code to run quicker and more efficiently.  Below are the original code and run times for yearValue verses and new refractured code and run times. 
 ### Original Code
-https://github.com/ParkerRHiggins/stock-analysis/blob/main/Resources/Original_Code.png
-https://github.com/ParkerRHiggins/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Original.png
-https://github.com/ParkerRHiggins/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Original.png
+![](Resources/Original_Code.png)
+![](Resources/VBA_Challenge_2017_Original.png)
+![](Resources/VBA_Challenge_2018_Original.png)
 
 ### Refractured Code
-https://github.com/ParkerRHiggins/stock-analysis/blob/main/Resources/Refactored_Code.png
-https://github.com/ParkerRHiggins/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Refactored.png
-https://github.com/ParkerRHiggins/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Refactored.png
+![](Resources/Refactored_Code.png)
+![](Resources/VBA_Challenge_2017_Refactored.png)
+![](Resources/VBA_Challenge_2018_Refactored.png)
 
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code in General
