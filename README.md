@@ -2,7 +2,7 @@
 
 ## Overview of Project
 ### Background
-Steve has asked me to help him analyze a green stock that his parents are interested in investing in.  The data that we’re analyzing is the annual return percentage over two years for 12 different green stocks including the green stock that Steve’s parents are particularly interested in to see which green stock is best investing in.  Steve has some experience working with Excel manually but utilizing Visual Basic for Applications, or VBA, we can write code that will automate our analysis for us.  
+Steve has asked me to help him analyze a green stock that his parents are interested investing in.  The data that we’re analyzing is the annual return percentage over two years for 12 different green stocks including the green stock that Steve’s parents are particularly interested in to see which green stock is best investing in.  Steve has some experience working with Excel manually but utilizing Visual Basic for Applications, or VBA, we can write code that will automate our analysis for us.  
 ### Purpose
 The purpose of this project was to analyze multiple green stocks efficiently utilizing VBA.  Once a working code was created that successfully analyzed multiple green stock return information for 2017 and 2018, we wanted to see if we could then modify the code to make it run more efficiently and ultimately decrease the codes run time.  We achieved this by refactoring the original code which resulted in a much quicker run time.
 
